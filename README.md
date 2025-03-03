@@ -1,6 +1,5 @@
-# Assignment 2.12 Function as a Service
+# Assignment - 2.12 Function as a Service
 
-# Assignment:
 Given a Lambda function that is triggered upon the creation of files in an S3 bucket, answer the following:
 
 What is the purpose of the execution role on the Lambda function? 
